@@ -1,0 +1,15 @@
+text4/
+        a.py
+        b.py
+        c.py
+        f1.py
+        f2.py
+        f3.py
+        c1.py
+        c2.py
+        c3.py
+        d.py
+        i1.py
+        i2.py
+        i3.py
+        image.py
